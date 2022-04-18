@@ -28,6 +28,17 @@ A questão pode ser acessada pelo link: https://leetcode.com/problems/trapping-r
 
 A questão pode ser acessada pelo link: https://leetcode.com/problems/longest-palindromic-substring/
 
+### Delete Operation For Two Strings
+
+![delete-operation-for-two-strings](doc/delete-operation-for-two-strings.png)
+
+A questão pode ser acessada pelo link: https://leetcode.com/problems/delete-operation-for-two-strings/
+
+### Check If An Original String Exists Given Two Encoded Strings
+
+![check-if-an-original-string-exists-given-two-encoded-strings](doc/check-if-an-original-string-exists-given-two-encoded-strings.png)
+
+A questão pode ser acessada pelo link: https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/
 
 ## Instalação 
 **Linguagem**: Python<br>
